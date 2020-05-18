@@ -12,12 +12,14 @@
 Bayesian Logical Inference
 1 Introduction
 1.1 Background
+  
  Have you ever noticed that some of us might resemble our parents in some way? Like we might have
 matching eye colour, or similar hair textures etc. We got these characteristics from our parents, and
 they got them from their parents. So eventually we can say that these biological informations are
 passed from one generation to another. These units of inheritance are known as traits. Here we aim
 to predict the traits in future generations provided the data of past generations. By some probabilistic
 modelling we can predict the probability of transmission of genetic traits.
+  
  There are many models designed to study the phenotypic prediction of traits at individual levels such as
 eye color [1], height [2] ,hair color, skin color [3] etc. Prediction of traits is used for many purposes like
 quantifying the risks of diseases for individuals [4] [5] [6] [7] . Diseases can be of dierent types. Among
