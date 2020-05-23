@@ -5,14 +5,18 @@
 ###  B.Tech(ICT) Semester IV: Probability and Random Processes (MAT 202)
 
  Group No : S B1  
- Name (Roll No) : Nancy Radadia(AU1841070)  
-                   Suhanee Patel(AU1841113)    
-                   Yash Patel(AU1841125)  
+ Name (Roll No) : Nancy Radadia(AU1841070)    
+                   Suhanee Patel(AU1841113)      
+                   Yash Patel(AU1841125)    
+                   
  Project Title: Prediction of the Probabilities of the Transmission of Genetic Traits within
-Bayesian Logical Inference
-1 Introduction
-1.1 Background
+                 Bayesian Logical Inference
+                   
+## 1 Introduction
   
+# 1.1 Background
+  
+    
  Have you ever noticed that some of us might resemble our parents in some way? Like we might have
 matching eye colour, or similar hair textures etc. We got these characteristics from our parents, and
 they got them from their parents. So eventually we can say that these biological informations are
