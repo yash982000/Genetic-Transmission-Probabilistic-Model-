@@ -1,3 +1,5 @@
+https://github.com/yash982000/Genetic-Transmisison-Probabilistic-Model-/blob/master/Final_Report.pdf
+
 # Genetic-Transmisison-Probabilistic-Model-
   
 ## School of Engineering and Applied Science (SEAS), Ahmedabad University
