@@ -179,7 +179,7 @@ Substituting, the above value in equation (1), the probability for hetrozygous s
 Pr(h2jE; I) =
 Pr(Ejh2; I)  Pr(h2jI)
 Pr(EjI)  
-=
+=  
 1=2  1
 1  
 Pr(h2jE; I) =
