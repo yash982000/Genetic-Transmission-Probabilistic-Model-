@@ -7,7 +7,7 @@ https://github.com/yash982000/Genetic-Transmisison-Probabilistic-Model-/blob/mas
 ###  B.Tech(ICT) Semester IV: Probability and Random Processes (MAT 202)
 
 ####  Group No : S B1  
-####  Name (Roll No) : https://github.com/sp2605 Nancy Radadia(AU1841070)    
+####  Name (Roll No) : Nancy Radadia(AU1841070)    
    ####                 Suhanee Patel(AU1841113)      
    ####                 Yash Patel(AU1841125)    
                    
@@ -84,7 +84,7 @@ Also, the outcome of genetic crossing of traits depends only on that of the prev
 be known from pedigree analysis and is used to create transmission probability vector of traits for a
 given generation. A special kind of stochastic process called Markov chain uses this vector to predict
 posterior probability of transmission of genetic traits under some assumptions. Hence we calculate the
-probability of an aected ospring among generations within Bayesian framework with Markov
+probability of an aected ospring among generations within Bayesian framework with Markov  
 chain. Also, using this probabilistic model we can even predict transmission of hereditary diseases
 among generations such as Cystic brosis (CF).
   
