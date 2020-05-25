@@ -153,7 +153,7 @@ so that initially, x0 = [1; 0; 0]T because G12 is given as LL genotype in Figure
 x1 = Ax0 = [0:5; 0:5; 0]T  
 Similarly, after two generations,  
 x2 = Ax1 = A2x0  
-Hence after n generation where (n 2 Z+) we have  
+Hence after n generation where (n 2 Z+) we have    
 xn = Anx0  
 Here it is required to calculate higher power of matrix A, hence we can use one of the linear algerbra
   
