@@ -7,7 +7,7 @@ https://github.com/yash982000/Genetic-Transmisison-Probabilistic-Model-/blob/mas
 ###  B.Tech(ICT) Semester IV: Probability and Random Processes (MAT 202)
 
 ####  Group No : S B1  
-####  Name (Roll No) : Nancy Radadia(AU1841070)    
+####  Name (Roll No) : https://github.com/sp2605 Nancy Radadia(AU1841070)    
    ####                 Suhanee Patel(AU1841113)      
    ####                 Yash Patel(AU1841125)    
                    
