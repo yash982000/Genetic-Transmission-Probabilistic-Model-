@@ -2,7 +2,7 @@
   
 ## School of Engineering and Applied Science (SEAS), Ahmedabad University
   
-###  B.Tech(ICT) Semester IV: Probability and Random Processes (MAT 202)    
+###  B.Tech(ICT) Semester IV: Probability and Random Processes (MAT 202)      
 
 ####  Group No : S B1  
 ####  Name (Roll No) : Nancy Radadia(AU1841070)    
