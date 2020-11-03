@@ -16,3 +16,5 @@ View the full project Report here:- https://github.com/yash982000/Genetic-Transm
   
   
 [![Forkers repo roster for @yash982000/Genetic-Transmission-Probabilistic-Model-](https://reporoster.com/forks/yash982000/Genetic-Transmission-Probabilistic-Model-)](https://github.com/yash982000/Genetic-Transmission-Probabilistic-Model-/network/members)
+
+[![Stargazers repo roster for @yash982000/Genetic-Transmission-Probabilistic-Model-](https://reporoster.com/stars/yash982000/Genetic-Transmission-Probabilistic-Model-)](https://github.com/yash982000/Genetic-Transmission-Probabilistic-Model-/stargazers)
