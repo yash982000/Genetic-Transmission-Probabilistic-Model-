@@ -15,3 +15,4 @@
 View the full project Report here:- https://github.com/yash982000/Genetic-Transmisison-Probabilistic-Model-/blob/master/Final_Report.pdf
   
   
+[![Forkers repo roster for @yash982000/Genetic-Transmission-Probabilistic-Model-](https://reporoster.com/forks/yash982000/Genetic-Transmission-Probabilistic-Model-)](https://github.com/yash982000/Genetic-Transmission-Probabilistic-Model-/network/members)
